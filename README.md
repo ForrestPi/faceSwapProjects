@@ -13,5 +13,8 @@ some records and algorithms about face swap and face reenactment
 ## some github repositories about face swap
 [githubProjects](githubProjects/README.md)
 
+
+## using GAN model 
+[FaceShifter](FaceShifter/readme.md)
 ## result
 ![gif](./Model_C_Video_gif.gif)
