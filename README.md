@@ -14,9 +14,13 @@ some records and algorithms about face swap and face reenactment
 [githubProjects](githubProjects/README.md)
 
 
+##  using 3DMM Face model
+[3Dface](3Dface/README.md)
+
 ## using GAN model 
 [FaceShifter](FaceShifter/readme.md)
 
 [FaceSwappingGAN](FaceSwappingGAN/README.md)
+
 ## result
 ![gif](Model_C_Video_Gif.gif)
